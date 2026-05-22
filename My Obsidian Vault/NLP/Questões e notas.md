@@ -1,5 +1,6 @@
->[! Pergunta]
->Retirar a pontuação e as stop words não pode confundir o parser, por haver falta de informação estrutural e de delimitação de frases?
+em construção...
+
+## Retirar a pontuação e as stop words não pode confundir o parser, por haver falta de informação estrutural e de delimitação de frases?
 
 A resposta curta é: **sim, retirar a pontuação e certas stop words pode destruir a capacidade do parser funcionar corretamente.**
 É preciso distinguir entre "limpeza de ruído" e "simplificação excessiva":
