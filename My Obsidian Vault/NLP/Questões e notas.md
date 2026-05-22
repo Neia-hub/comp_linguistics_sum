@@ -21,5 +21,3 @@ Diferença entre abordagens Clássicas e Modernas:
 - **Abordagem Clássica (ex: Bag of Words)**: Prioriza a remoção de tudo o que não seja "conteúdo" (substantivos e verbos) o mais cedo possível para reduzir a dimensionalidade.
 
 - **Abordagem de Deep Learning (ex: Transformers/BERT)**: Quase não remove nada. Estes modelos aprendem que a posição de uma vírgula ou a presença de uma preposição altera completamente o sentido da frase, por isso o texto entra quase "bruto" no modelo.
-
--- *Gemini, 2026*
