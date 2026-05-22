@@ -1,0 +1,3 @@
+- https://www.linguateca.pt/
+- https://web.stanford.edu/~jurafsky/slp3/
+- https://www.youtube.com/@statquest
