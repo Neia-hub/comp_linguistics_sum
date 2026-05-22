@@ -1,4 +1,4 @@
 
-## ~={orange}Articulatory Phonetics=~
-## ~={orange}Auditory Phonetics=~
-## ~={orange}Acoustic Phonetics=~
+## Articulatory Phonetics
+## }Auditory Phonetics
+## Acoustic Phonetics
