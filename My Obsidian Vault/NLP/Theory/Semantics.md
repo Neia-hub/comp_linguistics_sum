@@ -1,3 +1,5 @@
+em construção...
+
 ## NLP semantic theories
 ### Distributional Semantics
 
