@@ -1,2 +1,2 @@
-# comp_linguistics_sum
+# Computational Linguistics summaries
 Just my study sessions about Computational Linguistics.
