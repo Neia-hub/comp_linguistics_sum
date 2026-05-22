@@ -1,4 +1,4 @@
 
 ## Articulatory Phonetics
-## }Auditory Phonetics
+## Auditory Phonetics
 ## Acoustic Phonetics
