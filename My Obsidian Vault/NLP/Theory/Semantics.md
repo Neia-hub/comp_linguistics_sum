@@ -1,7 +1,7 @@
-## ~={orange}NLP semantic theories=~
-### ~={orange}~={yellow}Distributional Semantics=~=~
+## NLP semantic theories
+### Distributional Semantics
 
-# ~={orange}Semantic theories=~
-### ~={yellow}Lexical Semantics=~
+# Semantic theories
+### Lexical Semantic
 
-### ~={yellow}Compositional Semantics=~
+### Compositional Semantics
