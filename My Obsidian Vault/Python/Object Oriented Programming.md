@@ -41,8 +41,7 @@ Now the method goes along the same vein. These, as you can clearly see, are just
 
 Now, there's a lot of new words that are part of OOP and programming in general, we're going to see them again and again, and eventually it's going to become a word that's going to be in your dictionary. But for now, just remember that in OOP, we're trying to model real-life objects and those objects have things and they also can do things. The things that they have are their attributes and these are usually modeled with variables, and the things that they can do are called methods and they are modeled by functions.
 
-Essentially...
-... an object is just a way of combining some piece of data and some functionality altogether in the same thing.
+**Essentially, an object is just a way of combining some piece of data and some functionality altogether in the same thing.**
 
 But we can actually have multiple objects generated from the same type. So when we've modeled a particular job in our virtual restaurant like the waiter's job, and we figured out what are the things that the waiter have and what are the things that it can do, well, **we can actually generate multiple versions of the same object**.
 
