@@ -1,4 +1,4 @@
-# A
+# A dfsefse
 # B
 **Bag of Words (BoW)**: a model that turns text, like sentence, paragraph or document, into a collection of words and counts how often each word appears but ignoring the order of the words. It does not consider the order of the words or their grammar but focuses on counting how often each word appears in the text.
 # C
