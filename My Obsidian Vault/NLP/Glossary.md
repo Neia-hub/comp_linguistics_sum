@@ -1,20 +1,21 @@
-# ~={blue}A=~
-# ~={cyan}B=~
+# A
+# B
 **Bag of Words (BoW)**: a model that turns text, like sentence, paragraph or document, into a collection of words and counts how often each word appears but ignoring the order of the words. It does not consider the order of the words or their grammar but focuses on counting how often each word appears in the text.
-# ~={blue}C=~
+# C
 **Coreference Resolution**: a critical task in Natural Language Processing (NLP) that involves identifying when different words or phrases refer to the same entity.
 
 **Cosine Similarity**: a metric to measure the relatedness between two words.
-# ~={cyan}D=~
+# D
 **Deep Learning**: Deep learning is a subset of machine learning driven by multilayered neural networks whose design is inspired by the structure of the human brain. Deep learning models power most state-of-the-art artificial intelligence (AI) today, from computer vision and generative AI to self-driving cars and robotics.
 
 **Dependency Parsing**: a  NLP technique used to understand the grammatical structure of a sentence by showing how words are connected to each other. Instead of focusing on phrases like in phrase structure parsing, dependency parsing builds direct links between individual words. Each word depends on another word that acts as its head.
 
 **Distributional Semantics**: a research area that develops and studies theories and methods for quantifying and categorizing semantic similarities between linguistic items based on their distributional properties in large samples of language data. The basic idea of distributional semantics can be summed up in the distributional hypothesis: *linguistic items with similar distributions have similar meanings*.
-# ~={blue}E=~
-# ~={cyan}F=~
-# ~={blue}G=~
-# ~={cyan}H=~
+# E
+# F
+# G
+#
+H
 # ~={blue}I=~
 **Information Retrieval (IR)**: in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query.
 # ~={cyan}J=~
