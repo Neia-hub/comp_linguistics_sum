@@ -57,7 +57,7 @@
 **One-Hot Encoding in NLP**: a simple technique used to represent words or labels as numerical vectors. Each unique word is mapped to a binary vector where only one position has the value 1 and all others are 0. The length of the vector equals the size of the vocabulary making each word uniquely identifiable.
 
 # P
-**Parser/Parsing**: Within computational linguistics the term is used to refer to the formal analysis by a computer of a sentence or other string of words into its constituents, resulting in a parse tree showing their syntactic relation to each other, which may also contain semantic information.
+**Parser/Parsing**: **Parsing**, syntax analysis, or syntactic analysis is a process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar by breaking it into parts, by the **Parser**. Within computational linguistics the term is used to refer to the formal analysis by a computer of a sentence or other string of words into its constituents, resulting in a parse tree showing their syntactic relation to each other, which may also contain semantic information. 
 
 **Part-of-Speech (POS) tagging**: task in Natural Language Processing (NLP) where each word in a sentence is assigned a grammatical category such as noun, verb, adjective or adverb, etc.
 
