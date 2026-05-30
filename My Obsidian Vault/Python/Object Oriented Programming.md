@@ -1,6 +1,4 @@
-[em construção...]
-
-**Object Oriented Programming** **(OOP**) is really useful, so let's take a look at how you would actually go about implementing OOP. So in the last lesson we talked of this example of the restaurant, where we hired three types of staff, and we had a manager who would then manage all of these three different types of staff.  Now, the reason why OOP is called that is because **it's trying to model a real world object**.
+We've seen a little bit of why **Object Oriented Programming** **(OOP**) is really useful, but now let's take a look at how you would actually go about implementing OOP. So in the last lesson we talked of this example of the restaurant, where we hired three types of staff, and we had a manager who would then manage all of these three different types of staff.  Now, the reason why OOP is called that is because **it's trying to model a real world object**.
 
 So let's say that we are creating a virtual restaurant. Well, in this case, we probably have to model a virtual chef, waiter, cleaner, and manager.
 
@@ -41,7 +39,8 @@ Now the method goes along the same vein. These, as you can clearly see, are just
 
 Now, there's a lot of new words that are part of OOP and programming in general, we're going to see them again and again, and eventually it's going to become a word that's going to be in your dictionary. But for now, just remember that in OOP, we're trying to model real-life objects and those objects have things and they also can do things. The things that they have are their attributes and these are usually modeled with variables, and the things that they can do are called methods and they are modeled by functions.
 
-**Essentially, an object is just a way of combining some piece of data and some functionality altogether in the same thing.**
+>[!Essentially...]
+>an object is just a way of combining some piece of data and some functionality altogether in the same thing.
 
 But we can actually have multiple objects generated from the same type. So when we've modeled a particular job in our virtual restaurant like the waiter's job, and we figured out what are the things that the waiter have and what are the things that it can do, well, **we can actually generate multiple versions of the same object**.
 
@@ -50,7 +49,7 @@ So we could have Henry who's a waiter and we can also have Betty who's a waiter,
 So now let's take a look at how you use these class blueprints to create an actual object.
 
 
-### Constructing objects
+### ~={blue}Constructing objects=~
 
 So here's a blueprint for a car. And that blueprint that specifies what the color of the car is, how many wheels it should have, what its mileage is, how much fuel it has, all of those bits of data combined with all of its functionality like the ability to drive, the ability to stop and break. And that blueprint which models a real-life car is known as the class. And it's from this blueprint, this class, that we can generate as many objects as we want.
 

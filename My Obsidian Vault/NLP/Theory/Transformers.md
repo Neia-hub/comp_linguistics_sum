@@ -1,3 +1,1 @@
-em construção...
-
 The **transformer** is the standard architecture for building large language models.
