@@ -14,6 +14,7 @@ Glossário - en:
 - https://www.merriam-webster.com/dictionary/query;
 - https://www.geeksforgeeks.org/machine-learning/word-sense-disambiguation-in-natural-language-processing/;
 - https://huggingface.co/tasks/question-answering;
+- https://en.wikipedia.org/wiki/Parsing;
 
 Transformers:
 - https://web.stanford.edu/~jurafsky/slp3/;
