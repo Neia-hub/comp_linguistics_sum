@@ -14,9 +14,8 @@
 # E
 # F
 # G
-#
 H
-# ~={blue}I=~
+# I
 **Information Retrieval (IR)**: in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query.
 # ~={cyan}J=~
 # ~={blue}K=~
