@@ -5,9 +5,6 @@ NLP Pipeline and Tasks:
 - https://www.geeksforgeeks.org/;
 - https://www.codestudy.net/blog/definition-of-downstream-tasks-in-nlp/.
 
-Questões e notas:
-- Gemini
-
 Glossário - en:
 - https://www.ibm.com/think/topics/deep-learning;
 - https://www.geeksforgeeks.org/machine-learning/machine-learning/;
