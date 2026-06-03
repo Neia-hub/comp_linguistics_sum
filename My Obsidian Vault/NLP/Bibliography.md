@@ -16,11 +16,5 @@ Glossário - en:
 - https://huggingface.co/tasks/question-answering;
 - https://en.wikipedia.org/wiki/Parsing;
 
-Transformers:
-- https://web.stanford.edu/~jurafsky/slp3/;
-
-Semantics:
-- https://assets.cambridge.org/97811070/04290/frontmatter/9781107004290_frontmatter.pdf;
-
 Metrics:
 - https://www.youtube.com/watch?v=e9U0QAFbfLI;
