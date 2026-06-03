@@ -1,4 +1,4 @@
-From [*Advances in Dialectometry*][https://www.annualreviews.org/content/journals/10.1146/annurev-linguist-030514-124930].
+From [Advances in Dialectometry][https://www.annualreviews.org/content/journals/10.1146/annurev-linguist-030514-124930].
 
 # Introduction
 
