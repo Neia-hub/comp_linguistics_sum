@@ -1,2 +1,2 @@
 # Computational Linguistics summaries
-Just my study sessions about Computational Linguistics.
+Just my study sessions on Computational Linguistics.
