@@ -15,3 +15,10 @@ From the website:
 
 From the website:
 > [`librosa`](https://librosa.org/doc/latest/core.html#module-librosa "librosa") is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
+
+## LingPy
+[LingPy Website](https://www.lingpy.org/index.html)
+[Github](https://github.com/lingpy/lingpy)
+
+From Github:
+> A Python Library for Automatic Tasks in Historical Linguistics. A python package which can be used for various tasks in computational historical linguistics.
